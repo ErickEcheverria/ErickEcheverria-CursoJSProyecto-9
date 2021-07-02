@@ -1,5 +1,5 @@
 import Citas from "./classes/Citas";
-import UI from "./classes/InterfazUsuario";
+import UI from "./classes/UI";
 import {mascotaInput, 
     propietarioInput, 
     razaInput, 

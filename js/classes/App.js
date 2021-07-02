@@ -3,6 +3,7 @@ import {mascotaInput,
     propietarioInput, 
     razaInput, 
     telefonoInput,
+    fechaInput,    
     horaInput,
     sintomasInput, 
     formulario} from '../selectores.js';

@@ -1,5 +1,5 @@
-import Citas from "./classes/Citas";
-import UI from "./classes/UI";
+import Citas from "./classes/Citas.js";
+import UI from "./classes/UI.js";
 import {mascotaInput, 
     propietarioInput, 
     razaInput, 
